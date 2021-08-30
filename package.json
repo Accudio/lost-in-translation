@@ -1,0 +1,17 @@
+{
+  "name": "@accudio/lost-in-translation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "translate.js",
+  "type": "module",
+  "scripts": {
+    "start": "node translate.js"
+  },
+  "keywords": [],
+  "author": "Alistair Shepherd <alistair@accudio.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "translate": "^1.2.3"
+  }
+}
